@@ -48,7 +48,7 @@ img {
 }
 
 .section-title p {
-  color: #7b17917f;
+  color: #7007bc;
   font-size: 14px;
   font-weight: 600;
   letter-spacing: 2px;
@@ -61,7 +61,7 @@ img {
 }
 
 .section-title h2 span {
-  color: #86219a92;
+  color: #7007bc;
 }
 
 
@@ -92,7 +92,7 @@ img {
 }
 
 .logo span {
-  color: #d277f395;
+  color: #7007bc;
 }
 
 .navbar {
@@ -101,7 +101,7 @@ img {
 }
 
 .navbar a {
-  color: #810c8c;
+  color: #7007bc;
   font-size: 15px;
   font-weight: 500;
 
@@ -114,7 +114,7 @@ img {
 }
 
 .nav-button {
-  background: #660789;
+  background: #7007bc;
   color: white;
 
   padding: 10px 20px;
@@ -126,7 +126,7 @@ img {
 }
 
 .nav-button:hover {
-  background: #6306a1c7;
+  background: #7007bc;
   transform: translateY(-2px);
 }
 
@@ -155,7 +155,7 @@ img {
 }
 
 .small-title {
-  color: #4f058c;
+  color: #7007bc;
   font-weight: 600;
   margin-bottom: 15px;
 }
@@ -199,7 +199,7 @@ img {
   justify-content: center;
 
   background: white;
-  color: #57058e;
+  color: #7007bc;
 
   border: 1px solid #dbeafe;
   border-radius: 50%;
@@ -208,7 +208,7 @@ img {
 }
 
 .social-media a:hover {
-  background: #6306cc96;
+  background: #7007bc;
   color: white;
   transform: translateY(-4px);
 }
@@ -368,7 +368,7 @@ img {
       #dbeafe,
       #bfdbfe);
 
-  color: #6304bbcc;
+  color: #7007bc;
 
   font-size: 100px;
 
@@ -382,7 +382,7 @@ img {
 }
 
 .about-content h3 span {
-  color: #6304bbcc;
+  color: #7007bc;
 }
 
 .about-content p {
@@ -560,7 +560,7 @@ img {
   justify-content: center;
 
   background: linear-gradient(135deg,
-      #6304bbcc,
+      #7007bc,
       #a004fa);
 }
 
@@ -598,7 +598,7 @@ img {
 }
 
 .project-year {
-  color: #2563eb;
+  color: #7007bc;
   font-size: 13px;
   font-weight: 600;
 }
@@ -625,7 +625,7 @@ img {
 
 .project-tags span {
   background: #eff6ff;
-  color: #2563eb;
+  color: #7007bc;
 
   padding: 5px 10px;
 
@@ -636,13 +636,13 @@ img {
 }
 
 .project-link {
-  color: #2563eb;
+  color: #7007bc;
   font-size: 14px;
   font-weight: 600;
-}
+ }
 
 .project-link:hover {
-  color: #1d4ed8;
+  color: #7007bc;
 }
 
 
